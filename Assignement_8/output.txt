@@ -1,0 +1,11 @@
+Enter number of cities: 4
+Enter cost matrix (0 for same city):
+0 10 15 20
+10 0 35 25
+15 35 0 30
+20 25 30 0
+
+####################################
+
+Optimal delivery route: 0 1 3 2 0
+Minimum delivery cost: 80

@@ -1,0 +1,30 @@
+Enter number of items: 4
+
+Enter item name: Rice
+Enter weight (kg): 2
+Enter utility value: 10
+
+Enter item name: Medicine
+Enter weight (kg): 3
+Enter utility value: 15
+
+Enter item name: Food
+Enter weight (kg): 4
+Enter utility value: 20
+
+Enter item name: Water
+Enter weight (kg): 5
+Enter utility value: 25
+
+Enter truck capacity (kg): 8
+
+
+
+########################
+Maximum utility: 40
+
+Selected items:
+Water | Weight: 5 kg | Utility: 25
+Medicine | Weight: 3 kg | Utility: 15
+
+Total weight: 8 kg

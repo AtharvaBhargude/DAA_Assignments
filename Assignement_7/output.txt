@@ -1,0 +1,26 @@
+Enter number of courses: 4
+
+Enter course name: Maths
+Enter number of students in Maths: 3
+Enter student IDs: 101 102 103
+
+Enter course name: Physics
+Enter number of students in Physics: 2
+Enter student IDs: 102 104
+
+Enter course name: Chemistry
+Enter number of students in Chemistry: 2
+Enter student IDs: 103 105
+
+Enter course name: Programming
+Enter number of students in Programming: 2
+Enter student IDs: 101 104
+
+
+===== EXAM TIMETABLE =====
+Maths -> Exam Slot 1
+Physics -> Exam Slot 2
+Chemistry -> Exam Slot 2
+Programming -> Exam Slot 3
+
+Total exam slots required: 3
